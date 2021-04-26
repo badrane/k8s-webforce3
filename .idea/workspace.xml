@@ -23,8 +23,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/webServers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab-nfs/PVol.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/lab-nfs/PVol.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab-nfs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/lab-nfs/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab-static-pod/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/lab-static-pod/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,13 +63,10 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/todo-flask-postgres/todoapplication-deployment.yaml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/todo-flask-postgres/todoapplication-service.yaml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/lab-nfs/PVol.yaml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/lab-deployment/first.yaml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/todo-flask-postgres/sql/todos.sql" root0="FORCE_HIGHLIGHTING" />
-  </component>
-  <component name="ProblemsViewState">
-    <option name="selectedIndex" value="1" />
+    <setting file="file://$PROJECT_DIR$/todo-flask-postgres/todoapplication-service.yaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lab-rollingupdate/curl-test.sh" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lab-nfs/PVol.yaml" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1WnPj2UjIJpafDAYJ6lq6EtxCyK" />
   <component name="ProjectViewState">
@@ -194,7 +190,6 @@
     <recent_temporary>
       <list>
         <item itemvalue="Database Script.todos.sql" />
-        <item itemvalue="LaTeX.effective_python" />
       </list>
     </recent_temporary>
   </component>
