@@ -19,11 +19,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="460d2d5b-ee8c-4a9d-b1f2-b9dc8cc735c5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/webServers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+    <list default="true" id="460d2d5b-ee8c-4a9d-b1f2-b9dc8cc735c5" name="Default Changelist" comment="added more changes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab-static-pod/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/lab-static-pod/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab-nfs/PVol.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/lab-nfs/PVol.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab-nfs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/lab-nfs/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab-stress/hog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/lab-stress/hog.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo-flask-postgres/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/todo-flask-postgres/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo-flask-sqlite/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/todo-flask-sqlite/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo-flask-sqlite/mysqlite-pv.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/todo-flask-sqlite/mysqlite-pv.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

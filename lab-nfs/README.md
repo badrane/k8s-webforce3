@@ -39,7 +39,7 @@ k delete pvc pvc-one
 k delete pv pvvol-1 
 k create namespace small
 k describe ns small 
-k -n small create PVol.yaml  
+k -n small create -f PVol.yaml  
 k -n small create -f pvc.yaml 
 
 k -n small create -f storage-quota.yaml 
@@ -63,7 +63,7 @@ k -n small get pv
 # see the status set to released
 k -n small delete pv pvvol-1 
 k create -f PVol.yaml 
-kubectl patch pv pvvol-1 -p {"spec":{"persistentVolumeReclaimPolicy":"Delete"}}
+kubectl patch pv pvvol-1 -p '{"spec":{"persistentVolumeReclaimPolicy":"Delete"}}'
 # see the reclaim policy is set to Delete
 k describe ns small
 k -n small create -f pvc.yaml
